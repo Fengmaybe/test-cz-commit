@@ -43,5 +43,10 @@
     "commitizen": {
       "path": "node_modules/cz-customizable"
     }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -c -e $GIT_PARAMS"
+    }
   }
 }
