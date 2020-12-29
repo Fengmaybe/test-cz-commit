@@ -1,5 +1,7 @@
 # test-cz-commit
 
+博客文档：https://yokiyokiyoki.github.io/blog/2018/10/19/commit-msg/
+
 ## Project setup
 ```
 npm install
